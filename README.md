@@ -28,7 +28,7 @@ As an independent developer, I enjoy working on projects driven by curiosity and
 
 ## 📫 Connect
 Feel free to reach out for discussions on LLMs, philosophy, music, or the art of coding:
-- ✉️ kazusa@noobai.xyz
+- ✉️ thekazusa@gmail.com
 
 ## ⚡ Fun Fact
 I can visualize code structures while playing Debussy's "Clair de Lune" – the flowing arpeggios sync perfectly with elegant software architecture design!
