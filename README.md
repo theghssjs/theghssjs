@@ -26,10 +26,6 @@ Drawing from Wittgenstein's Language Games theory, I see programming languages a
 ## 🌐 Independent Projects
 As an independent developer, I enjoy working on projects driven by curiosity and practical needs. My focus is primarily on web development and exploring the capabilities of emerging technologies like LLMs. I value clean code, effective solutions, and the learning process that comes with each new challenge.
 
-## 📫 Connect
-Feel free to reach out for discussions on LLMs, philosophy, music, or the art of coding:
-- ✉️ theghssjs@proton.me
-
 ---
 
 *"The limits of my language mean the limits of my world." - Ludwig Wittgenstein*
